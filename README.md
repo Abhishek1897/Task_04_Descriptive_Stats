@@ -13,15 +13,15 @@ Each dataset (`fb_ads`, `fb_posts`, `tw_posts`) is analyzed using:
 
 | Analysis Type | Files |
 |---------------|-------|
-| Pure Python | `*_pure_python.py` |
-| Pandas | `*_pandas.py` |
-| Polars | `*_polars.py` |
+| Pure Python | `*_pure_python.ipynb` |
+| Pandas | `*_pandas.ipynb` |
+| Polars | `*_polars.ipynb` |
 
 ---
 
 ## ▶️ How to Run
 
-1. Open any `.py` notebook using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/).
+1. Open any `.ipynb` notebook using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/).
 2. Ensure the corresponding CSV data file is present in the same directory (e.g., `2024_fb_ads_president_scored_anon.csv`).
 3. Run all cells in the notebook to view:
    - Column summaries
